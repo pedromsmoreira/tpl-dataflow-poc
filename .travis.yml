@@ -1,2 +1,2 @@
 language: csharp
-solution: TplDataflowPoc.sln
+solution: src\TplDataflowPoc.sln
