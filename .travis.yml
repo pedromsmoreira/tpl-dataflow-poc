@@ -1,5 +1,5 @@
 language: csharp
-solution: TplDataflowPoc.sln
+solution: src/TplDataflowPoc.sln
 install:
   - sudo apt-get install -y gtk-sharp2
-  - nuget restore TplDataflowPoc.sln
+  - nuget restore src/TplDataflowPoc.sln
